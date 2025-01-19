@@ -1,18 +1,5 @@
-.down-arrow-link {
-    height:35px;
-}
-
-.custom-arrow-down-box {
-    color: white;
-    height: 100%;
-}
-
-.custom-arrow-down-icon {
-    transform: scale(6);
-}
-
-.arrow-grp {
-    width:50px;
+.cta-grp {
+    width:150px;
 }
 
 .accordion-button:not(.collapsed) {
