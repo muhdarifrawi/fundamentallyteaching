@@ -14,3 +14,8 @@
 .arrow-grp {
     width:50px;
 }
+
+.accordion-button:not(.collapsed) {
+    background-color: #fff2e0 !important;
+    color: black;
+}
